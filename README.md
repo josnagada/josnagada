@@ -1,6 +1,6 @@
 ![Banner](./banner.png)
 
-# 👋 Hello Kids, I'm Jos Sinaga!
+# 👋 Hello, I'm George Sinaga!
 
 ## 📚 Table of Contents
 - [What I'm Interested In](#what-im-interested-in)
