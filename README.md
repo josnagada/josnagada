@@ -1,7 +1,7 @@
-👋 Hello, I'm Jos Sinaga!
+👋 Hello Kids, I'm Jos Sinaga!
 
 ⚡ Fun Fact
-- 💡 210mph
+- 💡 TURI(Tuak Ori)
   
 🔍 What I'm Interested In
 - 🌐 Internet of Things (IoT): Building smart, connected devices to improve everyday life.
@@ -13,4 +13,3 @@
 - 🎥 YouTube: [Lukas Gustavo](https://www.youtube.com/@Lukasgustavo16)
 
 
-Feel free to connect, collaborate, or just say hi! 😊
