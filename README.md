@@ -1,7 +1,4 @@
 👋 Hello Kids, I'm Jos Sinaga!
-
-⚡ Fun Fact
-- 💡 TURI(Tuak Ori)
   
 🔍 What I'm Interested In
 - 🌐 Internet of Things (IoT): Building smart, connected devices to improve everyday life.
