@@ -1,3 +1,4 @@
+![Banner](./banner.png)
 👋 Hello Kids, I'm Jos Sinaga!
   
 🔍 What I'm Interested In
